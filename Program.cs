@@ -25,6 +25,7 @@ public class Hello2
         DisplayResultOfFlipCoin displayResultOfFlipCoin = new DisplayResultOfFlipCoin();
         displayResultOfFlipCoin.CointProject();
 
+        DecisionLogic decisionLogic = new DecisionLogic();
+        decisionLogic.InitializePermission();
     }
-   
 }
